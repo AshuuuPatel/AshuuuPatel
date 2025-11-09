@@ -1,4 +1,4 @@
-![logo](https://github.com/AshuuuPatel/AshuuuPatel/blob/main/GITHUB%20Banner.png)
+![logo](https://github.com/AshuuuPatel/AshuuuPatel/blob/main/GITHUB%20Banneer.png)
 <h1 align="center">Hi 👋, I'm Ashish Patel</h1>
 <h3 align="center">"Just a Developer Trying to Make the Web Cooler 🚀"</h3>
 
